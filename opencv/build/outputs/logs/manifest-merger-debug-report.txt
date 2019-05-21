@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:1-6:12
+	package
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:3:7-27
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:5:7-38
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml:4:7-33
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+uses-sdk
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		ADDED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
+		INJECTED from /home/loic/Enseirb/2A/PFA/free-Pfa-2018-13/mobile/opencv/AndroidManifest.xml
